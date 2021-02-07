@@ -15,4 +15,4 @@ Recreate the website you have selected in "withedits.html" and "withedits.css" -
 
 All of the content (text and components) should be viewable but the site should have a much different look. 
 
-Save your files in a github repository and pass in the github repository. 
+Save your files in a github repository and pass in the github repository. Also be sure to submit the URL of the website you are recreating. 
