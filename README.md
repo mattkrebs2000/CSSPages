@@ -23,3 +23,4 @@ Original look of webpage:
 
 [logo]: https://github.com/mattkrebs1974/FriendFinder/blob/master/friendfinder%20copy.png
 
+Save your files in a github repository and pass in the github repository. Also be sure to submit the URL of the website you are recreating. 
