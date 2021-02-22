@@ -20,11 +20,13 @@ Save your files in a github repository and pass in the github repository.
 This is the original look of webpage: 
 
 ![alt text][logo]
+
 [logo]: https://github.com/mattkrebs2000/CSSPages/blob/master/RecreateAWebpageActivity/Original.png
 
 
 This is how your website might look after edits... (completely different!)
 
 ![alt text][logoo]
+
 [logoo]: https://github.com/mattkrebs2000/CSSPages/blob/master/RecreateAWebpageActivity/WithEdits.png
 
