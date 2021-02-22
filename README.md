@@ -17,10 +17,14 @@ All of the content (text and components) should be viewable but the site should 
 
 Save your files in a github repository and pass in the github repository. 
 
-Original look of webpage: 
+This is the original look of webpage: 
 
 ![alt text][logo]
+[logo]: https://github.com/mattkrebs2000/CSSPages/blob/master/RecreateAWebpageActivity/Original.png
 
-[logo]: https://github.com/mattkrebs1974/FriendFinder/blob/master/friendfinder%20copy.png
 
-Save your files in a github repository and pass in the github repository. Also be sure to submit the URL of the website you are recreating. 
+This is how your website might look after edits... (completely different!)
+
+![alt text][logoo]
+[logoo]: https://github.com/mattkrebs2000/CSSPages/blob/master/RecreateAWebpageActivity/WithEdits.png
+
