@@ -13,6 +13,13 @@ Recreate the website you have selected in "original.html" and "original.css".
 
 Recreate the website you have selected in "withedits.html" and "withedits.css" -10 changes to properties of "border", "padding" and "margin" - also change the Color Scheme to one of your liking. 
 
-All of the content (text and components) should be viewable but the site should have a much different look. 
+All of the content (text and components) should be viewable but the site should have a much different look. See below for an exemplar. 
 
 Save your files in a github repository and pass in the github repository. 
+
+Original look of webpage: 
+
+![alt text][logo]
+
+[logo]: https://github.com/mattkrebs1974/FriendFinder/blob/master/friendfinder%20copy.png
+
